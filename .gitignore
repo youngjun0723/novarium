@@ -1,0 +1,29 @@
+# OS / IDE
+.DS_Store
+Thumbs.db
+.idea/
+*.iml
+.vscode/*
+!.vscode/extensions.json
+
+# 환경 변수
+.env
+.env.*
+!.env.example
+
+# 서버 (Gradle)
+server/build/
+server/.gradle/
+server/out/
+*.log
+
+# 클라이언트 (Node)
+client/node_modules/
+client/dist/
+
+# pixelfx 렌더 결과물
+records/
+sheets/
+
+# Claude Code 로컬 설정
+.claude/settings.local.json
