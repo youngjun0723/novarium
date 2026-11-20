@@ -1,0 +1,6 @@
+{
+  "enabledPlugins": {
+    "pixelfx@pixelfx": true,
+    "ecc@ecc": true
+  }
+}
